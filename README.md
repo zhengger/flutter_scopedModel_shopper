@@ -1,1 +1,3 @@
-# flutter_scopedModel_shopper
+# model_shopper
+
+A simple Flutter app that uses ScopedModel for state management.
