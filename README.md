@@ -1,0 +1,1 @@
+# flutter_scopedModel_shopper
